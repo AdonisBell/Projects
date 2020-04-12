@@ -1,4 +1,4 @@
-// Code Reviewed by Adonis B.
+// Code Reviewed by AdonisB.
 // Code reviewed by @professorgordon
 // Code reviewed by colton-t
 public class HelloWorld {
